@@ -1,8 +1,8 @@
 // 以下是业务服务器API地址
  // 本机开发API地址
-  var WxApiRoot = 'http://123.56.4.35:8089/wx/';
+  // var WxApiRoot = 'http://123.56.4.35:8089/wx/';
 
-//var WxApiRoot = 'https://liaosir.me/wx/';
+var WxApiRoot = 'https://www.liaosir.me/wx/';
 // 测试环境部署api地址
  //var WxApiRoot = 'http://192.168.0.101:8070/demo/wx/';
 // 线上云平台api地址
